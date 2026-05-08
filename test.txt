@@ -1,0 +1,6 @@
+vector3 cellCode()
+{
+    float x = 2.0 + 3.0;
+    print("result", x);
+    return vector3(x, x, x);
+}

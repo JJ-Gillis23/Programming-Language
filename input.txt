@@ -1,0 +1,21 @@
+function
+cellCode
+vector3
+float x
++ x 2.0 3.0
+callfunction
+print
+void
+args
+"result"
+x
+endargs
+callfunction
+vector3
+void
+args
+x
+x
+x
+endargs
+endfunction
